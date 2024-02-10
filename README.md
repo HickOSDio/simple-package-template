@@ -1,27 +1,12 @@
-# package_name
+# Math2
+A simple math package for Python.
 
-Description. 
-The package package_name is used to:
-	- 
-	-
+The package is available on [PyPI](https://test.pypi.org/project/math2/).
+
 
 ## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install math2.
 
 ```bash
-pip install package_name
-```
+pip install math2
 
-## Usage
-
-```python
-from package_name import file1_name
-file1_name.my_function()
-```
-
-## Author
-My_name
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
